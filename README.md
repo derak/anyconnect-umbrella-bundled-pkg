@@ -10,5 +10,7 @@ http://s.sudre.free.fr/Software/Packages/about.html
 
 - Download "AnyConnect Pre-Deployment Package (Mac OS)" from [here](https://software.cisco.com/download/home/286281283/type/282364313/release/4.10.07061). Mount the DMG and copy the `AnyConnect.pkg` to your project replacing the existing `AnyConnect.pkg` file.
 
-- You can follow the same metod here to create the package and choose your install options wit the `choices.xml` file.
+- Select Build from the "Build" Menu. After the build is completed there will be a new "Build" folder with your PKG.
+
+- For reference, you can follow the same metod here to create the package and choose your install options with the `choices.xml` file.
 https://sneakypockets.wordpress.com/2020/03/17/creating-a-wrapper-package-for-a-choices-xml-file/
