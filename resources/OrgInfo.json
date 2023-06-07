@@ -1,0 +1,5 @@
+Replace this with your own OrgInfo.json file!
+
+In your Umbrella dashboard,
+- Navigate to 'Deployments' > 'Roaming Computers' and click 'Roaming Client'.
+- click 'Download Module Profile' under 'AnyConnect Umbrella Roaming Security Module', and then download the OrgInfo.json file.
