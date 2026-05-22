@@ -1,4 +1,6 @@
 # anyconnect-umbrella-bundled-pkg
+[![Semgrep](https://github.com/derak/anyconnect-umbrella-bundled-pkg/actions/workflows/semgrep.yml/badge.svg)](https://github.com/derak/anyconnect-umbrella-bundled-pkg/actions/workflows/semgrep.yml)
+
 Installer package for Mac OS that installs Cisco AnyConnect as well as Umbrella module, OrgInfo.json and Umbrella Root Certificate without having to choose any options at install time. 
 
 - Download and install the Packages utility:
